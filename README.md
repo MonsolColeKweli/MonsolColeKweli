@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MonsolColeKweli
-- I have many interest in Software Engineering, robotics, cybersecurity, and pretty much anything dealing tech and programming. 
+- 👋 Hi, I’m <b>@MonsolColeKweli</b>
+- I have many interest in Software Engineering, robotics, cybersecurity, and pretty much anything dealing with tech and programming. 
 - I’m currently studying Computer Science at Miami University with an
 - intermediate level experience in programs such as Java, Python, C++, and Matlab.
 - Though I am always looking to expand my skillset and learn more about things outside my
