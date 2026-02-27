@@ -1,10 +1,16 @@
-- 👋 Hi, I’m <b>@MonsolColeKweli</b>
-- I have many interest in Software Engineering, robotics, cybersecurity, and pretty much anything dealing with tech and programming. 
-- I’m currently studying Computer Science at Miami University with an
-- experience in programming languages such as Java, Python, C++, etc.
-- Though I am always looking to expand my skillset and learn more about things outside my
-- comfort zones. Please take a look at my repositories to see some of the work i've done thus far, also please look out for
-- updates as I'll continue to post new projects that come my way!
+👋 Hi, I’m @MonsolColeKweli
+
+Senior Computer Science student at Miami University, graduating May 2026
+
+Interested in Software Engineering, AI/ML systems, robotics, and scalable backend development
+
+Experience building production-facing systems in Python, Java, C++, and JavaScript
+
+Recently completed work in multimodal AI benchmarking
+
+Passionate about building systems that are both technically sound and impactful
+
+Currently seeking full-time Software Engineering opportunities for 2026
 
 <!---
 MonsolColeKweli/MonsolColeKweli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
